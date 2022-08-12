@@ -8,3 +8,6 @@ details are provided to contact me
 ![Screenshot (5)](https://user-images.githubusercontent.com/106639733/184329591-43b4e5ac-dfbd-4fb1-b8c9-70ae72040594.png)
 
 
+url:
+https://satish503.github.io/satish-gudapati/about.html
+this is my future ready talent project link
