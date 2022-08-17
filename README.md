@@ -14,5 +14,5 @@ details are provided to contact me
 
 <h3>Project link</h3>
 
-https://satish503.github.io/satish-gudapati/about.html
+https://gentle-ground-04f619810.1.azurestaticapps.net/
 this is my future ready talent project link
